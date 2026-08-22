@@ -9,7 +9,7 @@ from telegram.ext import Application, CommandHandler, CallbackQueryHandler, Conv
 
 # ========== توکن و تنظیمات ==========
 TOKEN = "8007880411:AAGzR7u285lntyokxs7mQ91cH0yfbXC0GYo"
-ADMIN_IDS = [1601379026]  # لیست آیدی ادمین‌ها
+ADMIN_IDS = [1601379026 , 7973967188]  # لیست آیدی ادمین‌ها
 CHANNEL_ID = -1004407343678  # آیدی کانال برای گزارش‌ها
 
 logging.basicConfig(level=logging.INFO)
