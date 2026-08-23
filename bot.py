@@ -11,7 +11,7 @@ from telegram.ext import (
 
 
 TOKEN = '8007880411:AAGzR7u285lntyokxs7mQ91cH0yfbXC0GYo' # توکن رباتت بزار اینجا
-ADMIN_ID = 1601379026  , 7973967188# ایدی عددی ادمین
+ADMIN_ID = [1601379026, 7973967188]# ایدی عددی ادمین
 GROUP_1 = "https://t.me/rpdpddp"
 GROUP_2 = "https://t.me/zeusx_shop" #لینک کانال و گروه 
 GROUP_1_ID = -1003995446563 # ایدی عددی کانال یا گروه 
