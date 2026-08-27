@@ -11,7 +11,7 @@ from telegram.ext import (
     ApplicationHandlerStop
 )
 
-TOKEN = '7751568756:AAHpXVoUk-S3qnYcbFLuRu4nb7uJzH12ABA' # توکن رباتت بزار اینجا
+TOKEN = '8481558259:AAHhJYDAJcWyNf_We7s4yZhlfv-i8xybsew' # توکن رباتت بزار اینجا
 ADMIN_IDS = (1601379026, 7973967188)  # آیدی‌های عددی ادمین‌ها
 ADMIN_ID = ADMIN_IDS[0]  # ادمین اصلی (برای پیام‌های اطلاع‌رسانی تکی)
 GROUP_1 = "https://t.me/zeusx_shop"
