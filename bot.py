@@ -14,8 +14,8 @@ from telegram.ext import (
 TOKEN = '8481558259:AAHhJYDAJcWyNf_We7s4yZhlfv-i8xybsew' # توکن رباتت بزار اینجا
 ADMIN_IDS = (1601379026, 7973967188)  # آیدی‌های عددی ادمین‌ها
 ADMIN_ID = ADMIN_IDS[0]  # ادمین اصلی (برای پیام‌های اطلاع‌رسانی تکی)
-GROUP_1 = "https://t.me/zeusx_shop"
-GROUP_2 = "https://t.me/zeusx_shop" #لینک کانال و گروه 
+GROUP_1 = "https://t.me/RuinWar"
+GROUP_2 = "https://t.me/RuinWar" #لینک کانال و گروه 
 GROUP_1_ID = -1004407343678# ایدی عددی کانال یا گروه 
 CHANNEL_ID = -1004407343678
 REQUIRED_CHANNELS = []
